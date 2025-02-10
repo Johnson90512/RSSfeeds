@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>Johnson90512's Forensic Feeds</title>
+    <dateCreated>Mon, 10 Feb 2025 08:12:34 -0500</dateCreated>
+  </head>
+  <body>
+    <outline text="Forensics">
+      <outline text="DFIR &amp; Ramblings" type="rss" xmlUrl="https://chocolatecoat4n6.com/feed/" htmlUrl="https://chocolatecoat4n6.com"/>
+      <outline text="dfir.blog" type="rss" xmlUrl="https://dfir.blog/rss" htmlUrl="https://dfir.blog/"/>
+      <outline text="DFIR and Threat Hunting" type="rss" xmlUrl="http://findingbad.blogspot.com/feeds/posts/default" htmlUrl="http://findingbad.blogspot.com/"/>
+      <outline text="DFIR Diva" type="rss" xmlUrl="https://dfirdiva.com/feed/" htmlUrl="https://dfirdiva.com"/>
+      <outline text="DFIR notes" type="rss" xmlUrl="http://www.dfirnotes.net/feed.xml" htmlUrl="http://www.dfirnotes.net/"/>
+      <outline text="DFIR Review" type="rss" xmlUrl="https://dfir.pubpub.org/rss.xml" htmlUrl="https://dfir.pubpub.org"/>
+      <outline text="DFIRScience" type="rss" xmlUrl="https://cybercrimetech.com/feed.xml" htmlUrl="https://dfir.science/"/>
+      <outline text="DFIRSec" type="rss" xmlUrl="https://www.dfirsec.au/rss/" htmlUrl="https://www.dfirsec.au/"/>
+      <outline text="Posts on dfir.ch" type="rss" xmlUrl="https://dfir.ch/posts/index.xml" htmlUrl="https://dfir.ch/posts/"/>
+      <outline text="ThinkDFIR" type="rss" xmlUrl="https://thinkdfir.com/feed/" htmlUrl="https://thinkdfir.com"/>
+      <outline text="This Week In 4n6" type="rss" xmlUrl="https://thisweekin4n6.com/feed/" htmlUrl="https://thisweekin4n6.com"/>
+    </outline>
+  </body>
+</opml>
