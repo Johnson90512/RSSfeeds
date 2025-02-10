@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>Johnson90512's Critical Infrastructure Feeds</title>
+    <dateCreated>Mon, 10 Feb 2025 08:16:13 -0500</dateCreated>
+  </head>
+  <body>
+    <outline text="Critical Infrastructure">
+      <outline text="Dragos" type="rss" xmlUrl="https://www.dragos.com/feed/" htmlUrl="https://www.dragos.com/"/>
+      <outline text="ICS Advisories" type="rss" xmlUrl="https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml" htmlUrl="https://www.cisa.gov/"/>
+      <outline text="Industrial Cyber" type="rss" xmlUrl="https://industrialcyber.co/feed/" htmlUrl="https://industrialcyber.co/"/>
+    </outline>
+  </body>
+</opml>
