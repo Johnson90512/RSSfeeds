@@ -76,7 +76,6 @@
             <outline type="rss" text="Isosceles Blog" title="Isosceles Blog" xmlUrl="https://blog.isosceles.com/rss/" htmlUrl="https://blog.isosceles.com/"/>
             <outline type="rss" text="Ada Logics Blob" title="Ada Logics Blob" xmlUrl="https://adalogics.com/blog.rss" htmlUrl="https://adalogics.com"/>
             <outline type="rss" text="PortSwigger Blog" title="PortSwigger Blog" xmlUrl="http://blog.portswigger.net/feeds/posts/default" htmlUrl="https://portswigger.net/blog"/>
-            <outline type="rss" text="Assurance Maladie Security Team" title="Assurance Maladie Security Team" xmlUrl="https://assurancemaladiesec.github.io/feed.xml" htmlUrl="https://assurancemaladiesec.github.io/"/>
             <outline type="rss" text="Adlice Software" title="Adlice Software" xmlUrl="http://www.adlice.com/feed/" htmlUrl="https://www.adlice.com/"/>
             <outline type="rss" text="Oxide Computer Company Blog" title="Oxide Computer Company Blog" xmlUrl="https://oxide.computer/blog/feed" htmlUrl="https://oxide.computer/"/>
             <outline type="rss" text="[Archive of Volatility Labs]" title="[Archive of Volatility Labs]" xmlUrl="http://volatility-labs.blogspot.com/feeds/posts/default" htmlUrl="https://volatility-labs.blogspot.com/"/>
@@ -351,7 +350,6 @@
             <outline type="rss" text="shell{&amp;}co" title="shell{&amp;}co" xmlUrl="https://www.shellandco.net/feed/" htmlUrl="https://www.shellandco.net"/>
             <outline type="rss" text="Stories by Lokesh Kumar on Medium" title="Stories by Lokesh Kumar on Medium" xmlUrl="https://medium.com/feed/@lokeshdlk77" htmlUrl="https://medium.com/@lokeshdlk77?source=rss-f7da902983cc------2"/>
             <outline type="rss" text="Stories by Danang Tri Atmaja on Medium" title="Stories by Danang Tri Atmaja on Medium" xmlUrl="https://medium.com/feed/@danangtriatmaja" htmlUrl="https://medium.com/@danangtriatmaja?source=rss-eb246a7b9afc------2"/>
-            <outline type="rss" text="AffineSecurity" title="AffineSecurity" xmlUrl="https://AffineSecurity.gitlab.io/index.xml" htmlUrl="https://AffineSecurity.gitlab.io/"/>
             <outline type="rss" text="Stories by Dewanand Vishal on Medium" title="Stories by Dewanand Vishal on Medium" xmlUrl="https://medium.com/feed/@dewcode" htmlUrl="https://medium.com/@dewcode?source=rss-9975e15cdb4e------2"/>
             <outline type="rss" text="Jemma Issroff" title="Jemma Issroff" xmlUrl="https://jemma.dev/blog/published.xml" htmlUrl="https://jemma.dev/"/>
             <outline type="rss" text="0x00sec - The Home of the Hacker - Latest topics" title="0x00sec - The Home of the Hacker - Latest topics" xmlUrl="https://0x00sec.org/latest.rss" htmlUrl="https://0x00sec.org/latest"/>
@@ -415,7 +413,6 @@
             <outline type="rss" text="Stories by Marcelle Lee on Medium" title="Stories by Marcelle Lee on Medium" xmlUrl="https://medium.com/feed/@marcellelee" htmlUrl="https://medium.com/@marcellelee?source=rss-b5fe6b46aea0------2"/>
             <outline type="rss" text="Stories by Owen Garrett on Medium" title="Stories by Owen Garrett on Medium" xmlUrl="https://medium.com/feed/@oweng" htmlUrl="https://medium.com/@oweng?source=rss-caed958c13c6------2"/>
             <outline type="rss" text="I hate software" title="I hate software" xmlUrl="https://allsoftwaresucks.blogspot.com/feeds/posts/default" htmlUrl="https://allsoftwaresucks.blogspot.com/"/>
-            <outline type="rss" text="APT::WTF - APTortellini’s blog" title="APT::WTF - APTortellini’s blog" xmlUrl="https://aptw.tf/feed.xml" htmlUrl="http://aptw.tf/"/>
             <outline type="rss" text="got 0day?" title="got 0day?" xmlUrl="http://blog.ahmednabeel.com/rss/" htmlUrl="https://krbtgt.pw/"/>
             <outline type="rss" text="one.0day.works" title="one.0day.works" xmlUrl="https://one.0day.works/rss.xml" htmlUrl="https://one.0day.works/"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@inakcf" htmlUrl="https://medium.com/@inakcf?source=rss-830e549076b9------2"/>
@@ -677,11 +674,9 @@
             <outline type="rss" text="Sean Heelan's Blog" title="Sean Heelan's Blog" xmlUrl="http://seanhn.wordpress.com/feed/" htmlUrl="https://sean.heelan.io"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@smhtahsin33" htmlUrl="https://medium.com/@smhtahsin33?source=rss-d8b802427117------2"/>
             <outline type="rss" text="Stories by Yael Nagler on Medium" title="Stories by Yael Nagler on Medium" xmlUrl="https://medium.com/feed/@yasspartners" htmlUrl="https://medium.com/@yasspartners?source=rss-e425f0964f2------2"/>
-            <outline type="rss" text="Attack Debris" title="Attack Debris" xmlUrl="https://www.attackdebris.com/?feed=rss2" htmlUrl="https://www.attackdebris.com"/>
             <outline type="rss" text="Stories by shub rathore on Medium" title="Stories by shub rathore on Medium" xmlUrl="https://medium.com/feed/@shub66452" htmlUrl="https://medium.com/@shub66452?source=rss-2f1795bc0e7a------2"/>
             <outline type="rss" text="Stories by Md Hridoy on Medium" title="Stories by Md Hridoy on Medium" xmlUrl="https://medium.com/feed/@mdhridoy_4607" htmlUrl="https://medium.com/@mdhridoy_4607?source=rss-46bcbdb9f6c0------2"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@nehpatel" htmlUrl="https://medium.com/@nehpatel?source=rss-6593dc4495be------2"/>
-            <outline type="rss" text="All Posts - byte.how" title="All Posts - byte.how" xmlUrl="https://byte.how/posts/index.xml" htmlUrl="https://byte.how/posts/"/>
             <outline type="rss" text="Kumar" title="Kumar" xmlUrl="https://www.kumar.ninja/feeds/posts/default?alt=rss" htmlUrl="https://www.kumar.ninja/"/>
             <outline type="rss" text="Stories by Alexandru Coltuneac on Medium" title="Stories by Alexandru Coltuneac on Medium" xmlUrl="https://medium.com/feed/@dekeeu" htmlUrl="https://medium.com/@dekeeu?source=rss-15b76f14c4a7------2"/>
             <outline type="rss" text="John Opdenakker" title="John Opdenakker" xmlUrl="https://johnopdenakker.com/rss/" htmlUrl="https://johnopdenakker.com/"/>
@@ -937,7 +932,6 @@
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@codewithvamp" htmlUrl="https://medium.com/@codewithvamp?source=rss-8b196181d468------2"/>
             <outline type="rss" text="Stories by Waffle Ironer on Medium" title="Stories by Waffle Ironer on Medium" xmlUrl="https://medium.com/feed/@waffleironer" htmlUrl="https://medium.com/@waffleironer?source=rss-c1106baf4f82------2"/>
             <outline type="rss" text="Stories by Ajay Gautam on Medium" title="Stories by Ajay Gautam on Medium" xmlUrl="https://medium.com/feed/@evilboyajay" htmlUrl="https://medium.com/@evilboyajay?source=rss-788d897ebd22------2"/>
-            <outline type="rss" text="Andrew Kerr" title="Andrew Kerr" xmlUrl="https://andrewjkerr.com/rss" htmlUrl="https://andrewjkerr.com/"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@thenighthawk0" htmlUrl="https://medium.com/@thenighthawk0?source=rss-d13481b153ff------2"/>
             <outline type="rss" text="Count Upon Security" title="Count Upon Security" xmlUrl="http://countuponsecurity.com/feed/" htmlUrl="https://countuponsecurity.com"/>
             <outline type="rss" text="Stories by Benji Tobias on Medium" title="Stories by Benji Tobias on Medium" xmlUrl="https://medium.com/feed/@benjitobias" htmlUrl="https://medium.com/@benjitobias?source=rss-c1f0da814d72------2"/>
@@ -955,7 +949,6 @@
             <outline type="rss" text="muha2xmad" title="muha2xmad" xmlUrl="https://muha2xmad.github.io/feed.xml" htmlUrl="https://muha2xmad.github.io/"/>
             <outline type="rss" text="mattjay" title="mattjay" xmlUrl="https://www.mattjay.com/feed.xml" htmlUrl="https://mattjay.com/"/>
             <outline type="rss" text="Wrongbaud's Blog" title="Wrongbaud's Blog" xmlUrl="http://wrongbaud.github.io/feed.xml" htmlUrl="https://wrongbaud.github.io"/>
-            <outline type="rss" text="ADDICTIVE HACKERS" title="ADDICTIVE HACKERS" xmlUrl="http://addictivehackers.blogspot.com/feeds/posts/default" htmlUrl="https://addictivehackers.blogspot.com/"/>
             <outline type="rss" text="Are We Safer Yet?" title="Are We Safer Yet?" xmlUrl="http://arewesaferyet.blogspot.com/feeds/posts/default" htmlUrl="https://arewesaferyet.blogspot.com/"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@filipaze" htmlUrl="https://medium.com/@filipaze?source=rss-51dca335470c------2"/>
             <outline type="rss" text="de engineering Feed" title="de engineering Feed" xmlUrl="https://de-engineer.github.io/feed.xml" htmlUrl="https://de-engineer.github.io/"/>
@@ -963,7 +956,6 @@
             <outline type="rss" text="Tinyhack.com" title="Tinyhack.com" xmlUrl="http://tinyhack.com/feed/" htmlUrl="https://tinyhack.com"/>
             <outline type="rss" text="Security Obscurity Blog" title="Security Obscurity Blog" xmlUrl="http://security-obscurity.blogspot.com/feeds/posts/default" htmlUrl="https://security-obscurity.blogspot.com/"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@vishnurajr" htmlUrl="https://medium.com/@vishnurajr?source=rss-5baf4afb981e------2"/>
-            <outline type="rss" text="Agarri : Sécurité informatique offensive" title="Agarri : Sécurité informatique offensive" xmlUrl="http://www.agarri.fr/blog/rss.xml" htmlUrl="https://www.agarri.fr/blog"/>
             <outline type="rss" text="Stories by Zahir Tariq on Medium" title="Stories by Zahir Tariq on Medium" xmlUrl="https://medium.com/feed/@zahirtariq" htmlUrl="https://medium.com/@zahirtariq?source=rss-4d823ea0baf8------2"/>
             <outline type="rss" text="doubleagent.net" title="doubleagent.net" xmlUrl="https://doubleagent.net/feed.xml" htmlUrl="https://doubleagent.net/"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@41414141" htmlUrl="https://medium.com/@41414141?source=rss-9c11390ed078------2"/>
@@ -1030,7 +1022,6 @@
             <outline type="rss" text="mzfr's blog" title="mzfr's blog" xmlUrl="https://blog.mzfr.me/index.xml" htmlUrl="https://blog.mzfr.me/"/>
             <outline type="rss" text="qwerty" title="qwerty" xmlUrl="https://medium.com/feed/kminthein" htmlUrl="https://medium.com/kminthein?source=rss----9b7b9bb194d2---4"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@the.white.soul.0" htmlUrl="https://medium.com/@the.white.soul.0?source=rss-4e0dba82dd46------2"/>
-            <outline type="rss" text="Akijosberry" title="Akijosberry" xmlUrl="https://akijosberryblog.wordpress.com/feed/" htmlUrl="https://akijosberryblog.wordpress.com"/>
             <outline type="rss" text="Sean Wright" title="Sean Wright" xmlUrl="https://blog.sean-wright.com/rss/" htmlUrl="https://blog.sean-wright.com/"/>
             <outline type="rss" text="Stories by Aditya Soni on Medium" title="Stories by Aditya Soni on Medium" xmlUrl="https://medium.com/feed/@hetroublemakr" htmlUrl="https://medium.com/@hetroublemakr?source=rss-767c8649d2d------2"/>
             <outline type="rss" text="snowscan.io" title="snowscan.io" xmlUrl="https://snowscan.io/feed.xml" htmlUrl="https://snowscan.io/"/>
@@ -1071,7 +1062,6 @@
             <outline type="rss" text="Cronop.io" title="Cronop.io" xmlUrl="https://cronop-io.github.io/feed.xml" htmlUrl="https://cronop-io.github.io/"/>
             <outline type="rss" text="Stories by Aman Gupta on Medium" title="Stories by Aman Gupta on Medium" xmlUrl="https://medium.com/feed/@amangupta566" htmlUrl="https://medium.com/@amangupta566?source=rss-10c158ba23b1------2"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@cortez.train" htmlUrl="https://medium.com/@cortez.train?source=rss-e3b86ff4e405------2"/>
-            <outline type="rss" text="Aldeid News" title="Aldeid News" xmlUrl="http://feeds.feedburner.com/aldeidnews" htmlUrl="https://www.aldeid.com"/>
             <outline type="rss" text="Security Addict" title="Security Addict" xmlUrl="https://blog.medarkus.net/index.xml" htmlUrl="https://blog.medarkus.net/"/>
             <outline type="rss" text="The Copetti site" title="The Copetti site" xmlUrl="https://www.copetti.org/index.xml" htmlUrl="https://www.copetti.org/"/>
             <outline type="rss" text="andpalmier" title="andpalmier" xmlUrl="https://andpalmier.com/index.xml" htmlUrl="https://andpalmier.com/"/>
@@ -1135,7 +1125,6 @@
             <outline type="rss" text="Mandos" title="Mandos" xmlUrl="https://blog.mandos.io/feed" htmlUrl="https://mandos.io/"/>
             <outline type="rss" text="hackd" title="hackd" xmlUrl="https://hackd.net/index.xml" htmlUrl="https://hackd.net/"/>
             <outline type="rss" text="Katie’s Five Cents" title="Katie’s Five Cents" xmlUrl="https://medium.com/feed/katies-five-cents" htmlUrl="https://medium.com/katies-five-cents?source=rss----3d8909f4bd04---4"/>
-            <outline type="rss" text="Azure AD Stuff" title="Azure AD Stuff" xmlUrl="https://stephanwaelde.com/feed/" htmlUrl="https://stephanwaelde.com"/>
             <outline type="rss" text="Finest Hacking and HAM » Feed" title="Finest Hacking and HAM » Feed" xmlUrl="https://do1alx.de/feed/" htmlUrl="https://do1alx.de/"/>
             <outline type="rss" text="Stories by Prateek Tiwari on Medium" title="Stories by Prateek Tiwari on Medium" xmlUrl="https://medium.com/feed/@prateek_0490" htmlUrl="https://medium.com/@prateek_0490?source=rss-dd4cbb5a8d44------2"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@rohit443" htmlUrl="https://medium.com/@rohit443?source=rss-532c4e669900------2"/>
@@ -1556,7 +1545,6 @@
             <outline type="rss" text="Gergely's hack blog" title="Gergely's hack blog" xmlUrl="https://gergelykalman.com/feeds/all.atom.xml" htmlUrl="https://gergelykalman.com/"/>
             <outline type="rss" text="Stories by dw1 on Medium" title="Stories by dw1 on Medium" xmlUrl="https://medium.com/feed/@dwisiswant0" htmlUrl="https://medium.com/@dwisiswant0?source=rss-638e2275775------2"/>
             <outline type="rss" text="Stories by Jad Karaki on Medium" title="Stories by Jad Karaki on Medium" xmlUrl="https://medium.com/feed/@jad.karaki" htmlUrl="https://medium.com/@jad.karaki?source=rss-113d7ba114c3------2"/>
-            <outline type="rss" text="Ariel Koren's blog" title="Ariel Koren's blog" xmlUrl="http://arielkoren.com/blog/feed/" htmlUrl="https://arielkoren.com/blog"/>
             <outline type="rss" text="k3170" title="k3170" xmlUrl="http://k3170makan.blogspot.com/feeds/posts/default" htmlUrl="http://blog.k3170makan.com/"/>
             <outline type="rss" text="Stories by Kostas on Medium" title="Stories by Kostas on Medium" xmlUrl="https://medium.com/feed/@kostas-ts" htmlUrl="https://medium.com/@kostas-ts?source=rss-13421cb5a77c------2"/>
             <outline type="rss" text="Posts on Haxolot.com" title="Posts on Haxolot.com" xmlUrl="https://haxolot.com/posts/index.xml" htmlUrl="https://haxolot.com/posts/"/>
@@ -1630,7 +1618,6 @@
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@himmat1005" htmlUrl="https://medium.com/@himmat1005?source=rss-c22499a87ff4------2"/>
             <outline type="rss" text="Stories by Ashish Dhone on Medium" title="Stories by Ashish Dhone on Medium" xmlUrl="https://medium.com/feed/@ashketchum" htmlUrl="https://medium.com/@ashketchum?source=rss-facf070059ab------2"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@aidilarf" htmlUrl="https://medium.com/@aidilarf?source=rss-d60795081864------2"/>
-            <outline type="rss" text="All things time related...." title="All things time related...." xmlUrl="http://blog.kiddaland.net/feeds/posts/default" htmlUrl="http://blog.kiddaland.net/"/>
             <outline type="rss" text="Igor’s Blog" title="Igor’s Blog" xmlUrl="https://igor-blue.github.io/feed.xml" htmlUrl="https://igor-blue.github.io/"/>
             <outline type="rss" text="Stories by Alex Birsan on Medium" title="Stories by Alex Birsan on Medium" xmlUrl="https://medium.com/feed/@alex.birsan" htmlUrl="https://medium.com/@alex.birsan?source=rss-7fa68cbc850e------2"/>
             <outline type="rss" text="Luigi Auriemma" title="Luigi Auriemma" xmlUrl="http://aluigi.altervista.org/rss.php" htmlUrl="http://aluigi.org"/>
@@ -1931,7 +1918,6 @@
             <outline type="rss" text="Marcus Edmondson | Offensive Security | Information Security" title="Marcus Edmondson | Offensive Security | Information Security" xmlUrl="https://marcusedmondson.com/feed/" htmlUrl="https://marcusedmondson.com"/>
             <outline type="rss" text="Stories by Nishant Saurav on Medium" title="Stories by Nishant Saurav on Medium" xmlUrl="https://medium.com/feed/@nishantrustlingup" htmlUrl="https://medium.com/@nishantrustlingup?source=rss-c33e5b7ebc68------2"/>
             <outline type="rss" text="Shubham Shah" title="Shubham Shah" xmlUrl="http://shubh.am/rss/" htmlUrl="http://shubs.io/"/>
-            <outline type="rss" text="Ayaz Mammadov" title="Ayaz Mammadov" xmlUrl="https://mcyoloswagham.github.io/feed.xml" htmlUrl="https://mcyoloswagham.github.io/"/>
             <outline type="rss" text="A small freedom area RSS" title="A small freedom area RSS" xmlUrl="http://blog.pkh.me/rss.xml" htmlUrl="http://blog.pkh.me/"/>
             <outline type="rss" text="The personal site of Remco Vermeulen" title="The personal site of Remco Vermeulen" xmlUrl="https://mechanicalsympathy.nl/index.xml" htmlUrl="https://remcovermeulen.com/"/>
             <outline type="rss" text="Stories by Swapmaurya on Medium" title="Stories by Swapmaurya on Medium" xmlUrl="https://medium.com/feed/@swapmaurya20" htmlUrl="https://medium.com/@swapmaurya20?source=rss-19f84de758b------2"/>
@@ -2027,7 +2013,6 @@
             <outline type="rss" text="MKSB(en)" title="MKSB(en)" xmlUrl="http://mksben.l0.cm/feeds/posts/default" htmlUrl="https://mksben.l0.cm/"/>
             <outline type="rss" text="Fady's Technical Blog" title="Fady's Technical Blog" xmlUrl="http://blog.fadyothman.com/rss/" htmlUrl="https://blog.fadyothman.com/"/>
             <outline type="rss" text="Stories by Dan Fabro on Medium" title="Stories by Dan Fabro on Medium" xmlUrl="https://medium.com/feed/@timpaxerror" htmlUrl="https://medium.com/@timpaxerror?source=rss-7eb4f9f651ce------2"/>
-            <outline type="rss" text="Astr0baby's not so random thoughts _____ rand() % 100;" title="Astr0baby's not so random thoughts _____ rand() % 100;" xmlUrl="http://astr0baby.wordpress.com/feed/" htmlUrl="https://astr0baby.wordpress.com"/>
             <outline type="rss" text="Null Sweep" title="Null Sweep" xmlUrl="https://nullsweep.com/rss/" htmlUrl="https://nullsweep.com/"/>
             <outline type="rss" text="Brett Buerhaus" title="Brett Buerhaus" xmlUrl="http://buer.haus/feed/" htmlUrl="https://buer.haus"/>
             <outline type="rss" text="Stories by Yeasir Arafat on Medium" title="Stories by Yeasir Arafat on Medium" xmlUrl="https://medium.com/feed/@Skylinearafat" htmlUrl="https://medium.com/@Skylinearafat?source=rss-893f2de6af36------2"/>
@@ -2037,7 +2022,6 @@
             <outline type="rss" text="Ring Ø Labs" title="Ring Ø Labs" xmlUrl="http://www.ringzerolabs.com/feeds/posts/default" htmlUrl="http://www.ringzerolabs.com/"/>
             <outline type="rss" text="Rick Mark" title="Rick Mark" xmlUrl="https://blog.rickmark.me/rss/" htmlUrl="https://blog.rickmark.me/"/>
             <outline type="rss" text="Amanjeev Sethi" title="Amanjeev Sethi" xmlUrl="https://amanjeev.com/atom.xml" htmlUrl="https://amanjeev.com"/>
-            <outline type="rss" text="Amer Hukić" title="Amer Hukić" xmlUrl="https://amerhukic.com/feed.xml" htmlUrl="https://amerhukic.com/"/>
             <outline type="rss" text="Stories by Ozgur Alp on Medium" title="Stories by Ozgur Alp on Medium" xmlUrl="https://medium.com/feed/@ozguralp" htmlUrl="https://medium.com/@ozguralp?source=rss-d836b28cb997------2"/>
             <outline type="rss" text="Boku Feed" title="Boku Feed" xmlUrl="https://boku7.github.io/feed.xml" htmlUrl="https://0xboku.com/"/>
             <outline type="rss" text="Malicious Group" title="Malicious Group" xmlUrl="https://blog.malicious.group/rss/" htmlUrl="https://blog.malicious.group/"/>
@@ -2249,13 +2233,11 @@
             <outline type="rss" text="Stories by Luke Berner on Medium" title="Stories by Luke Berner on Medium" xmlUrl="https://medium.com/feed/@lukeberner" htmlUrl="https://medium.com/@lukeberner?source=rss-144eafa251c1------2"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@abhinda1996" htmlUrl="https://medium.com/@abhinda1996?source=rss-cbc5f898e530------2"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@shail-official" htmlUrl="https://medium.com/@shail-official?source=rss-fb82f18083ea------2"/>
-            <outline type="rss" text="Alex Studer" title="Alex Studer" xmlUrl="https://alex.studer.dev/feed.xml" htmlUrl="https://alex.studer.dev/"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@quelperlado" htmlUrl="https://medium.com/@quelperlado?source=rss-391a8f454316------2"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@0xmh3yad" htmlUrl="https://medium.com/@0xmh3yad?source=rss-a7423b5f4e5a------2"/>
             <outline type="rss" text="yar-eb" title="yar-eb" xmlUrl="https://big5-sec.github.io/feed.xml" htmlUrl="https://big5-sec.github.io/"/>
             <outline type="rss" text="sharpletters" title="sharpletters" xmlUrl="https://sharpletters.net/index.xml" htmlUrl="https://sharpletters.net/"/>
             <outline type="rss" text="Blog" title="Blog" xmlUrl="http://feeds.feedburner.com/PaulosYibelo-OfficalBlog" htmlUrl="http://www.paulosyibelo.com/"/>
-            <outline type="rss" text="Another IT Security Blog" title="Another IT Security Blog" xmlUrl="http://daniels-it-blog.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://daniels-it-blog.blogspot.com/"/>
             <outline type="rss" text="Stories by Joshua Regio on Medium" title="Stories by Joshua Regio on Medium" xmlUrl="https://medium.com/feed/@joshuaregio" htmlUrl="https://medium.com/@joshuaregio?source=rss-e327ff78ee1d------2"/>
             <outline type="rss" text="ForrestOrr" title="ForrestOrr" xmlUrl="https://www.forrest-orr.net/blog-feed.xml" htmlUrl="https://www.forrest-orr.net/blog"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@joshuaarulsamy" htmlUrl="https://medium.com/@joshuaarulsamy?source=rss-31ccd1df523b------2"/>
