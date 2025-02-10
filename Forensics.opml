@@ -17,6 +17,31 @@
       <outline text="Posts on dfir.ch" type="rss" xmlUrl="https://dfir.ch/posts/index.xml" htmlUrl="https://dfir.ch/posts/"/>
       <outline text="ThinkDFIR" type="rss" xmlUrl="https://thinkdfir.com/feed/" htmlUrl="https://thinkdfir.com"/>
       <outline text="This Week In 4n6" type="rss" xmlUrl="https://thisweekin4n6.com/feed/" htmlUrl="https://thisweekin4n6.com"/>
+      <outline type="rss" text="SANS Digital Forensics and Incident Response Blog" title="SANS Digital Forensics and Incident Response Blog" xmlUrl="https://blogs.sans.org/computer-forensics/feed/" htmlUrl="https://www.sans.org/blog"/>
+      <outline type="rss" text="SANS Blog" title="SANS Blog" xmlUrl="http://digital-forensics.sans.org/blog/feed/" htmlUrl="https://www.sans.org/blog"/>
+      <outline type="rss" text="Blog | Threat Intelligence &amp; Memory Forensics | Volexity" title="Blog | Threat Intelligence &amp; Memory Forensics | Volexity" xmlUrl="http://www.volexity.com/blog/?feed=rss2" htmlUrl="https://www.volexity.com/blog/"/>
+      <outline type="rss" text="ZENA FORENSICS" title="ZENA FORENSICS" xmlUrl="http://blog.digital-forensics.it/feeds/posts/default?alt=rss" htmlUrl="https://blog.digital-forensics.it/"/>
+      <outline type="rss" text="forensicmike1" title="forensicmike1" xmlUrl="https://forensicmike1.com/feed/" htmlUrl="http://172.31.17.250/"/>
+      <outline type="rss" text="D20 Forensics" title="D20 Forensics" xmlUrl="https://blog.d204n6.com/feeds/posts/default?alt=rss" htmlUrl="https://blog.d204n6.com/"/>
+      <outline type="rss" text="Tony Lambert" title="Tony Lambert" xmlUrl="https://forensicitguy.github.io/feed.xml" htmlUrl="https://forensicitguy.github.io/"/>
+      <outline type="rss" text="Baker Street Forensics" title="Baker Street Forensics" xmlUrl="https://bakerstreetforensics.com/feed/" htmlUrl="https://bakerstreetforensics.com"/>
+      <outline type="rss" text="Cheeky4n6Monkey - Learning About Digital Forensics" title="Cheeky4n6Monkey - Learning About Digital Forensics" xmlUrl="http://cheeky4n6monkey.blogspot.com/feeds/posts/default" htmlUrl="http://cheeky4n6monkey.blogspot.com/"/>
+      <outline type="rss" text="Hacking Exposed Computer Forensics Blog" title="Hacking Exposed Computer Forensics Blog" xmlUrl="http://hackingexposedcomputerforensicsblog.blogspot.com/feeds/posts/default" htmlUrl="https://www.hecfblog.com/"/>
+      <outline type="rss" text="DFIRSec" title="DFIRSec" xmlUrl="https://www.dfirsec.au/rss/" htmlUrl="https://www.dfirsec.au/"/>
+      <outline type="rss" text="DFIR Review" title="DFIR Review" xmlUrl="https://dfir.pubpub.org/rss.xml" htmlUrl="https://dfir.pubpub.org"/>
+      <outline type="rss" text="DFIR and Threat Hunting" title="DFIR and Threat Hunting" xmlUrl="http://findingbad.blogspot.com/feeds/posts/default" htmlUrl="http://findingbad.blogspot.com/"/>
+      <outline type="rss" text="My DFIR Blog" title="My DFIR Blog" xmlUrl="https://dfir.ru/feed/" htmlUrl="https://dfir.ru"/>
+      <outline type="rss" text="The DFIR Report" title="The DFIR Report" xmlUrl="https://thedfirreport.com/feed/" htmlUrl="https://thedfirreport.com/"/>
+      <outline type="rss" text="DFIR notes" title="DFIR notes" xmlUrl="http://www.dfirnotes.net/feed.xml" htmlUrl="http://www.dfirnotes.net/"/>
+      <outline type="rss" text="Matt's DFIR Blog" title="Matt's DFIR Blog" xmlUrl="https://mgreen27.github.io/feed.xml" htmlUrl="https://mgreen27.github.io/"/>
+      <outline type="rss" text="DFIRScience" title="DFIRScience" xmlUrl="https://cybercrimetech.com/feed.xml" htmlUrl="https://dfir.science/"/>
+      <outline type="rss" text="DFIR &amp; Ramblings" title="DFIR &amp; Ramblings" xmlUrl="https://chocolatecoat4n6.com/feed/" htmlUrl="https://chocolatecoat4n6.com"/>
+      <outline type="rss" text="ThinkDFIR" title="ThinkDFIR" xmlUrl="https://thinkdfir.com/feed/" htmlUrl="https://thinkdfir.com"/>
+      <outline type="rss" text="Open Source DFIR" title="Open Source DFIR" xmlUrl="https://osdfir.blogspot.com/feeds/posts/default" htmlUrl="https://osdfir.blogspot.com/"/>
+      <outline type="rss" text="" title="" xmlUrl="https://dfirtnt.wordpress.com/feed/" htmlUrl="https://dfirtnt.wordpress.com"/>
+      <outline type="rss" text="Stark 4N6" title="Stark 4N6" xmlUrl="https://www.stark4n6.com/feeds/posts/default?alt=rss" htmlUrl="https://www.stark4n6.com/"/>
+
+
     </outline>
   </body>
 </opml>
