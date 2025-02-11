@@ -219,7 +219,7 @@
             <outline type="rss" text="Thomas Stringer" title="Thomas Stringer" xmlUrl="https://trstringer.com/feed.xml" htmlUrl="https://trstringer.com"/>
             <outline type="rss" text="Bug Bounty" title="Bug Bounty" xmlUrl="https://aswinthambi.blogspot.com/feeds/posts/default" htmlUrl="https://aswinthambi.blogspot.com/"/>
             <outline type="rss" text="acut3" title="acut3" xmlUrl="https://acut3.github.io/feed.xml" htmlUrl="http://localhost:4000/"/>
-            <outline type="rss" text="OSINT, OPSEC, Privacy, Infosec, &amp; Digital Exposure Profiling" title="OSINT, OPSEC, Privacy, Infosec, &amp; Digital Exposure Profiling" xmlUrl="https://www.cqcore.uk/feed/" htmlUrl="https://www.cqcore.uk/"/>
+            <outline type="rss" text="OSINT, OPSEC, Privacy, Infosec, &amp; tal Exposure Profiling" title="OSINT, OPSEC, Privacy, Infosec, &amp; tal Exposure Profiling" xmlUrl="https://www.cqcore.uk/feed/" htmlUrl="https://www.cqcore.uk/"/>
             <outline type="rss" text="Malware Musings" title="Malware Musings" xmlUrl="http://malwaremusings.com/feed/" htmlUrl="https://malwaremusings.com"/>
             <outline type="rss" text="Stories by Gökhan Güzelkokar on Medium" title="Stories by Gökhan Güzelkokar on Medium" xmlUrl="https://medium.com/feed/@gguzelkokar.mdbf15" htmlUrl="https://medium.com/@gguzelkokar.mdbf15?source=rss-8354dfe8fea1------2"/>
             <outline type="rss" text="Stories by s3c on Medium" title="Stories by s3c on Medium" xmlUrl="https://medium.com/feed/@s3c" htmlUrl="https://medium.com/@s3c?source=rss-6353b6fc422d------2"/>
@@ -1069,7 +1069,7 @@
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@mike-sheward" htmlUrl="https://medium.com/@mike-sheward?source=rss-6b9728528655------2"/>
             <outline type="rss" text="Security Blogs" title="Security Blogs" xmlUrl="http://smart7.in/feed.xml" htmlUrl="https://smart7.in/"/>
             <outline type="rss" text="Jeroen Gui" title="Jeroen Gui" xmlUrl="https://jeroengui.be/feed/" htmlUrl="https://jeroengui.be"/>
-            <outline type="rss" text="Digital Interruption Research" title="Digital Interruption Research" xmlUrl="https://research.digitalinterruption.com/feed.xml" htmlUrl="https://research.digitalinterruption.com/"/>
+            <outline type="rss" text="tal Interruption Research" title="tal Interruption Research" xmlUrl="https://research.talinterruption.com/feed.xml" htmlUrl="https://research.talinterruption.com/"/>
             <outline type="rss" text="Tal's Tech Treks" title="Tal's Tech Treks" xmlUrl="https://talsk.github.io/feed.xml" htmlUrl="https://talsk.github.io/"/>
             <outline type="rss" text="My Feed Title" title="My Feed Title" xmlUrl="https://kernelpanic.cryptid.fr/en/blog.rss" htmlUrl="https://kernelpanic.cryptid.fr/en"/>
             <outline type="rss" text="Stories by polarply on Medium" title="Stories by polarply on Medium" xmlUrl="https://medium.com/feed/@polarply" htmlUrl="https://medium.com/@polarply?source=rss-9047f2114317------2"/>
@@ -1190,7 +1190,6 @@
             <outline type="rss" text="SERVICENGER » Feed" title="SERVICENGER » Feed" xmlUrl="https://servicenger.com/feed/" htmlUrl="https://servicenger.com"/>
             <outline type="rss" text="Stories by Akshansh JaisWal on Medium" title="Stories by Akshansh JaisWal on Medium" xmlUrl="https://medium.com/feed/@akshanshjaiswal" htmlUrl="https://medium.com/@akshanshjaiswal?source=rss-fb29dfdf5804------2"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@priyanshbansal25" htmlUrl="https://medium.com/@priyanshbansal25?source=rss-647f28f3d746------2"/>
-            <outline type="rss" text="DigiNinja" title="DigiNinja" xmlUrl="http://www.digininja.org/rss.xml" htmlUrl="https://digi.ninja/rss.xml"/>
             <outline type="rss" text="Stories by ultranoob on Medium" title="Stories by ultranoob on Medium" xmlUrl="https://medium.com/feed/@ultranoob" htmlUrl="https://medium.com/@ultranoob?source=rss-13f333b22648------2"/>
             <outline type="rss" text="PowerShell" title="PowerShell" xmlUrl="https://devblogs.microsoft.com/powershell/feed/" htmlUrl="https://devblogs.microsoft.com/powershell/"/>
             <outline type="rss" text="Koen Van Impe – vanimpe.eu" title="Koen Van Impe – vanimpe.eu" xmlUrl="http://www.vanimpe.eu/feed/rss/" htmlUrl="https://www.vanimpe.eu/"/>
