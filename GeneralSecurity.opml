@@ -112,7 +112,6 @@
             <outline type="rss" text="SentinelLabs - We are hunters, reversers, exploit developers, and tinkerers shedding light on the world of malware, exploits, APTs, and cybercrime across all platforms." title="SentinelLabs - We are hunters, reversers, exploit developers, and tinkerers shedding light on the world of malware, exploits, APTs, and cybercrime across all platforms." xmlUrl="https://labs.sentinelone.com/feed/" htmlUrl="https://www.sentinelone.com/labs/"/>
             <outline type="rss" text="Vault Infosec" title="Vault Infosec" xmlUrl="https://medium.com/feed/vault-infosec" htmlUrl="https://medium.com/vault-infosec?source=rss----d27d46c7b059---4"/>
             <outline type="rss" text="HackerOne" title="HackerOne" xmlUrl="https://hackerone.com/news.rss" htmlUrl="https://www.hackerone.com/"/>
-            <outline type="rss" text="Dragos" title="Dragos" xmlUrl="https://dragos.com/feed/" htmlUrl="https://www.dragos.com"/>
             <outline type="rss" text="Blogs Archive - Zimperium" title="Blogs Archive - Zimperium" xmlUrl="http://blog.zimperium.com/feed/" htmlUrl="https://www.zimperium.com/blog/"/>
             <outline type="rss" text="Stories by Master SEC on Medium" title="Stories by Master SEC on Medium" xmlUrl="https://medium.com/feed/@master-sec" htmlUrl="https://medium.com/@master-sec?source=rss-36b3c0f50eb3------2"/>
             <outline type="rss" text="The Cryptography Caffè ☕" title="The Cryptography Caffè ☕" xmlUrl="https://cryptographycaffe.sandboxaq.com/index.xml" htmlUrl="https://cryptographycaffe.sandboxaq.com/"/>
@@ -719,7 +718,6 @@
             <outline type="rss" text="Tao Bojlén" title="Tao Bojlén" xmlUrl="https://btao.org/feed.xml" htmlUrl="https://btao.org/"/>
             <outline type="rss" text="hesec.de" title="hesec.de" xmlUrl="https://hesec.de/index.xml" htmlUrl="https://hesec.de/"/>
             <outline type="rss" text="Stories by Jack Baylor on Medium" title="Stories by Jack Baylor on Medium" xmlUrl="https://medium.com/feed/@jackbaylor" htmlUrl="https://medium.com/@jackbaylor?source=rss-c6c0d42e949d------2"/>
-            <outline type="rss" text="Samantha Demi's Blog" title="Samantha Demi's Blog" xmlUrl="http://pewpewthespells.com/feed.xml" htmlUrl="https://pewpewthespells.com/"/>
             <outline type="rss" text="ptx2" title="ptx2" xmlUrl="https://ptx2.net/index.xml" htmlUrl="https://ptx2.net/"/>
             <outline type="rss" text="AccidentalRebel.com" title="AccidentalRebel.com" xmlUrl="https://www.accidentalrebel.com/./feeds/all.atom.xml" htmlUrl="https://www.accidentalrebel.com/"/>
             <outline type="rss" text="Stories by Micah Babinski on Medium" title="Stories by Micah Babinski on Medium" xmlUrl="https://medium.com/feed/@micahbabinski" htmlUrl="https://medium.com/@micahbabinski?source=rss-47a061e2b431------2"/>
