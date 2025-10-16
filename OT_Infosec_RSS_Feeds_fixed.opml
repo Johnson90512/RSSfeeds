@@ -6,7 +6,7 @@
   <body>
     <outline text="OT_ICS_Security" title="OT_ICS_Security">
       <outline text="Dragos Blog" title="Dragos Blog" type="rss" xmlUrl="https://www.dragos.com/blog/feed/"/>
-      <outline text="CISA ICS Advisories (general)" title="CISA ICS Advisories (general)" type="rss" xmlUrl="https://www.cisa.gov/news-events/ics-advisories.xml"/>
+      <outline text="CISA ICS Advisories (general)" title="CISA ICS Advisories (general)" type="rss" xmlUrl="https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A184ies.xml"/>
       <outline text="Nozomi Networks Blog" title="Nozomi Networks Blog" type="rss" xmlUrl="https://www.nozominetworks.com/blog/feed/"/>
       <outline text="Claroty Blog" title="Claroty Blog" type="rss" xmlUrl="https://claroty.com/blog/feed/"/>
       <outline text="Industrial Cyber" title="Industrial Cyber" type="rss" xmlUrl="https://industrialcyber.co/feed/"/>
